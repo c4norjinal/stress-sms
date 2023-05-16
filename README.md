@@ -1,3 +1,6 @@
+# Çalıştırma
+bum.py Yi Calıştırsınız.
+
 
 # Özellikler
 - Sonsuz SMS desteği
